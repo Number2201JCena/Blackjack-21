@@ -1,0 +1,15 @@
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/bin/Debug/net7.0/PP3_Classes(1.3)_Cena
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/bin/Debug/net7.0/PP3_Classes(1.3)_Cena.deps.json
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/bin/Debug/net7.0/PP3_Classes(1.3)_Cena.runtimeconfig.json
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/bin/Debug/net7.0/PP3_Classes(1.3)_Cena.dll
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/bin/Debug/net7.0/PP3_Classes(1.3)_Cena.pdb
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.csproj.AssemblyReference.cache
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.AssemblyInfoInputs.cache
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.AssemblyInfo.cs
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.csproj.CoreCompileInputs.cache
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.dll
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/refint/PP3_Classes(1.3)_Cena.dll
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.pdb
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/PP3_Classes(1.3)_Cena.genruntimeconfig.cache
+/Users/pccena/Projects/PP3_Classes(1.3)_Cena/PP3_Classes(1.3)_Cena/obj/Debug/net7.0/ref/PP3_Classes(1.3)_Cena.dll
